@@ -25,7 +25,7 @@ To skip the basics, do the following:
 [Download](https://codeload.github.com/kannan-parameswaran/ml-stock-prices-moving-average/zip/master) and unzip the source repository for this project, or clone it using Git: 
 ###### **git clone https://github.com/kannan-parameswaran/ml-stock-prices-moving-average.git**
 
-cd into 333333 **ml-stock-prices-moving-average**
+cd into ###### **ml-stock-prices-moving-average**
 
 Jump ahead to Running this application
 
@@ -36,12 +36,12 @@ Jump ahead to Running this application
 Unfinished.
 
 ### Running this application.
-- Mac OS X and Linux 
-...$ `Python3 stock_prices_ma.py`
+###### Mac OS X and Linux 
+   ```...$ Python3 stock_prices_ma.py```
 
 ### See Also
 
 - [Single Moving Average]([https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc421.ht)
 - [Python Documentation](https://docs.python.org/3/)
-
+- [Quandl API Documentation](https://docs.quandl.co)
 
