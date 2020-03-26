@@ -47,4 +47,6 @@ Unfinished.
 - [Python Documentation](https://docs.python.org/3/)
 - [Quandl API Documentation](https://docs.quandl.co)
 
-- [Testing](./1.png)
+![Testing png](./1.png)
+
+![Testing html](readme.html)
