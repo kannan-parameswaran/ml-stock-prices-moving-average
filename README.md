@@ -24,7 +24,7 @@ To skip the basics, do the following:
 
 [Download](https://codeload.github.com/kannan-parameswaran/ml-stock-prices-moving-average/zip/master) and unzip the source repository for this project, or clone it using Git: 
 ```
-###### **git clone https://github.com/kannan-parameswaran/ml-stock-prices-moving-average.git**
+	git clone https://github.com/kannan-parameswaran/ml-stock-prices-moving-average.git**
 ```
 cd into **ml-stock-prices-moving-average**
 
@@ -37,8 +37,9 @@ Jump ahead to Running this application
 Unfinished.
 
 ### Running this application.
-###### Mac OS X and Linux 
-	```...$ Python3 stock_prices_ma.py```
+```
+	...$ Python3 stock_prices_ma.py
+```
 
 ### See Also
 
