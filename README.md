@@ -25,7 +25,7 @@ To skip the basics, do the following:
 [Download](https://codeload.github.com/kannan-parameswaran/ml-stock-prices-moving-average/zip/master) and unzip the source repository for this project, or clone it using Git: 
 ###### **git clone https://github.com/kannan-parameswaran/ml-stock-prices-moving-average.git**
 
-cd into ###### **ml-stock-prices-moving-average**
+cd into **ml-stock-prices-moving-average**
 
 Jump ahead to Running this application
 
@@ -45,3 +45,4 @@ Unfinished.
 - [Python Documentation](https://docs.python.org/3/)
 - [Quandl API Documentation](https://docs.quandl.co)
 
+- [Testing](readme.html)
