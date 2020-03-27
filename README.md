@@ -5,7 +5,7 @@ Simple very effective technique in time series, can be used for data preparation
 In this project, we'll see how to use moving average technique for time series forecasting with Python using stock prices for Apple Inc.(AAPL).
 
 ### What You Will build
-You will build a Python application that loads AAPL stock prices from Quandl library, sort, filter, plot graphs and make stock prediction on historical dates.
+You will build a Python application that loads Apple Inc.(AAPL) stock prices from Quandl library, sort, filter, plot graphs and make stock prediction on historical dates.
 
 ### What You need
 
@@ -15,8 +15,8 @@ You will build a Python application that loads AAPL stock prices from Quandl lib
   - [Visual Studio Code](https://code.visualstudio.com) - Integrated development environment
   - [Jupyter Notebook](https://jupyter.org) - Interactive environment
   
-### How to complete this this project.
-You can start from scratch and complete each step or you can bypass basic setup steps that are already familiar to you. Either way, you end up with working code.
+### How to complete this project.
+You can start from scratch and complete each step or you can bypass basic setup steps that are already familiar to you. Either way, you end up with complete code.
 
 To start from scratch, move on to Single Moving Average.
 
@@ -64,7 +64,7 @@ First we import the libraries we will use
 
 ### See Also
 
-- [Single Moving Average]([https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc421.ht)
+- [Single Moving Average](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc421.ht)
 - [Python Documentation](https://docs.python.org/3/)
 - [Quandl API Documentation](https://docs.quandl.co)
 
