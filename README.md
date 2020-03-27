@@ -38,9 +38,9 @@ Open python interpreter as below or use your preferred method
 ```
     $ python3.7
     Python 3.7.3 (default, Dec 20 2019, 18:57:59) 
-   [GCC 8.3.0] on linux
-   Type "help", "copyright", "credits" or "license" for more information.
-   >>> 
+    [GCC 8.3.0] on linux
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>> 
 ```
 
 First we import the libraries we will use
@@ -58,8 +58,8 @@ First we import the libraries we will use
 ```
 
 ### Running this application.
-```
-   ...$ python3 stock_prices_ma.py
+```bash
+    $ python3.7 stock_prices_ma.py
 ```
 
 ### See Also
