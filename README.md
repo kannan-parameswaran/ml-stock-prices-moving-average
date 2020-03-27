@@ -18,7 +18,7 @@ You will build a Python application that loads Apple Inc.(AAPL) stock prices fro
 ### How to complete this project.
 You can start from scratch and complete each step or you can bypass basic setup steps that are already familiar to you. Either way, you end up with complete code.
 
-To start from scratch, move on to Single Moving Average.
+To start from scratch, move on to What are Moving Average or Smoothing Techniques?
 
 To skip the basics, do the following:
 
@@ -30,8 +30,8 @@ cd into **ml-stock-prices-moving-average**
 
 Jump ahead to Running this application
 
-### Single Moving Average
-[Taking a moving average is a smoothing process](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc421.htm).
+### What are Moving Average or Smoothing Techniques?
+[Taking a moving average is a smoothing process](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc42.htm).
 
 ### Python code
 Open python interpreter as below or use your preferred method
@@ -64,7 +64,7 @@ First we import the libraries we will use
 
 ### See Also
 
-- [Single Moving Average](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc421.ht)
+- [Moving Average](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc42.htm)
 - [Python Documentation](https://docs.python.org/3/)
 - [Quandl API Documentation](https://docs.quandl.co)
 
