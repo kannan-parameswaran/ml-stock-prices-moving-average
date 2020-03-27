@@ -34,7 +34,28 @@ Jump ahead to Running this application
 [Taking a moving average is a smoothing process](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc421.htm).
 
 ### Python code
-Unfinished.
+Open python interpreter as below or use your preferred method
+```
+    $ python3.7
+    Python 3.7.3 (default, Dec 20 2019, 18:57:59) 
+   [GCC 8.3.0] on linux
+   Type "help", "copyright", "credits" or "license" for more information.
+   >>> 
+```
+
+First we import the libraries we will use
+```
+    >>> import pandas as pd
+    >>> from datetime import datetime
+    >>> from numpy import mean
+    >>> from sklearn.metrics import mean_squared_error
+    >>> import matplotlib.pyplot as plt
+    >>> 
+```
+
+```
+    To be finished
+```
 
 ### Running this application.
 ```
@@ -47,6 +68,3 @@ Unfinished.
 - [Python Documentation](https://docs.python.org/3/)
 - [Quandl API Documentation](https://docs.quandl.co)
 
-![Testing png](./1.png)
-
-![Testing html](readme.html)
